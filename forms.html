@@ -5,7 +5,22 @@
 
 
         <body> 
-
+            <form action = "forms.php" method = "POST">
+                <label for= "username"> NameTag:</label>
+                <input type="text" id="username" required minlength="6" maxlength="10" placeholder="BUNGIE"> 
+                <br>
+                <label for = "Age"> Age: </label>
+                <input type="text" id ="Age" minlength="1" maxlength="3" placeholder= "20" required > 
+                <br>
+                <label for = "PR"> PR:</label>
+                <input type = "text" id="PR" minlength="1" maxlength="3">
+                <br>
+                <label for ="file"> file </label><br>
+                <input type= "file" id="file">
+                <br>
+                <input type ="submit"> 
+                <br>
+                <input type ="reset">
 
         </body>
     </head>
