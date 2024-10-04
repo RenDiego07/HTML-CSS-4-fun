@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    color: azure;
+}
+li {
+    color: azure;
+}
+dd {
+    color: azure;
+}
+#Warlock {
+    color:chartreuse
+}
+#Titan {
+    color:brown
+}
+
+.IMPORTANT {
+    color: cornflowerblue;
+}
