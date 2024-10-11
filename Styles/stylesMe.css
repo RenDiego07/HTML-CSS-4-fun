@@ -1,0 +1,63 @@
+
+
+body{
+    background-color: black;
+    max-width: 1200px;
+
+}
+
+#whiteText{
+    color: beige;
+
+}
+
+#HiperLink {
+
+color: rgb(116, 116, 232);
+}
+
+#FooterLinks{
+
+    color: rgb(116,116,232);
+    font-size: 26px;
+}
+.PWhite{
+    color: white;
+}
+
+p{
+    color: red;
+}
+
+.note{
+    font-size: 20px;
+}
+
+#id-selector-demo{
+
+    color:green
+}
+
+li[value]{
+    color:blue
+}
+ *{
+    text-align: center;
+ }
+
+
+
+ .warning{
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+ }
+
+
+
+/* #asignandole un id/*
+
+/*   .some-name/  para clases
+
